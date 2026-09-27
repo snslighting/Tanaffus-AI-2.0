@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.qa/
+.npm-cache/
+.deck-build/
+.codex-finalizer/
